@@ -2,7 +2,7 @@
 
 **Electronics Assistant** by **Radoslav Kostov** is a professional yet approachable expert in electronics, microelectronics, and electrical engineering, available on the GPTs store.
 
-[![Open in ChatGPT](https://img.shields.io/badge/Open_in-ChatGPT-74aa9c?logo=openai&logoColor=white)]
+![Open in ChatGPT](https://img.shields.io/badge/Open_in-ChatGPT-74aa9c?logo=openai&logoColor=white)
 
 ### 🤖 Key Features:
 - Professional guidance on electronics and microelectronics
