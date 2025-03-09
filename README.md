@@ -9,4 +9,6 @@
 - Assistance with electrical engineering questions and projects
 - Friendly and approachable interactions tailored for enthusiasts and professionals alike
 
+> **⚠️ Note:** You need an active **ChatGPT Plus** subscription to access this GPT.
+
 👉 [Try Electronics Assistant GPT](https://chatgpt.com/g/g-67ce132b33cc8191b68c61816f373148-electronics-assistant)
