@@ -1,9 +1,9 @@
+## Electronics Assistant GPT
+
 <!-- Image at the beginning -->
 <p align="center">
   <img src="./electronics-assistant.png" alt="Electronics Assistant GPT" width="400">
 </p>
-
-## Electronics Assistant GPT
 
 <strong>Electronics Assistant</strong> by <strong>Radoslav Kostov</strong> is a professional yet approachable expert in electronics, microelectronics, and electrical engineering, available on the GPTs store.
 
